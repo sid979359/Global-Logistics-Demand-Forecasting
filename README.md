@@ -74,11 +74,9 @@ The Power BI dashboard visualizes logistics performance using three key charts:
 1. **Top Delayed Routes** – Average delay by route  
 2. **Warehouse Shipment Volume** – Shipments handled by each warehouse  
 3. **Daily Shipment Trend** – Shipment activity over time  
+## Dashboard Preview
 
----
-
-## Project Structure
-
+![Logistics Dashboard](dashboard.png)
 ---
 
 ## Key Insights
